@@ -11,6 +11,9 @@ location: "Los Angeles, CA"
 
 
 **Teaching Assistantship — Analysis of Aerospace Structures (MAE 166A), Fall 2024**
+
+<!--more-->
+
 - Course: MECH&AE 166A (Analysis of Aerospace Structures)
 - Department: Mechanical and Aerospace Engineering (UCLA)
 - Role:
