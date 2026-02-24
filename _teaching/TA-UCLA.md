@@ -1,18 +1,17 @@
 ---
 title: "Teaching Assistantships - UCLA"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate courses"
 permalink: /teaching/ucla-teaching-assistantship
 venue: "UCLA Mechanical & Aerospace Engineering Department"
 date: 2024-09-01
 location: "Los Angeles, CA"
 ---
 
-
+<!--more-->
 
 **Teaching Assistantship — Analysis of Aerospace Structures (MAE 166A), Fall 2024**
 
-<!--more-->
 
 - Course: MECH&AE 166A (Analysis of Aerospace Structures)
 - Department: Mechanical and Aerospace Engineering (UCLA)
