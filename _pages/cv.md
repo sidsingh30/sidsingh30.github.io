@@ -77,11 +77,6 @@ Skills
 - **Technical communication and coordination:** technical writing; stakeholder briefings; structured documentation; cross-team coordination; process standardization (rubrics, templates, checklists).
 
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Talks
 ======
