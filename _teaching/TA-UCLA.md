@@ -21,5 +21,5 @@ location: "Los Angeles, CA"
   - Collaborated with the instructor/TA team to refine homework assignments and solution keys; provided student-facing feedback and proposed submission templates to improve solution organization.
 - Instructor: Dr. Abdon Sepulveda
 - TA team: Pornrawee Thonapalin; Siddhant Singh
-- [Course homepage:](https://catalog.registrar.ucla.edu/course/2024/MECHAE166A?siteYear=2024)
+- [Course homepage](https://catalog.registrar.ucla.edu/course/2024/MECHAE166A?siteYear=2024)
 - 
