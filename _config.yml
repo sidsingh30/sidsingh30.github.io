@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Siddhant Singh"
 title_separator          : "-"
 name                     : &name "Siddhant Singh"
-description              : &description "(DRAFT)Autonomous vehicle safety data, incident reporting, and risk sciences. CPUC, DMV disengagements, NHTSA SGO. UCLA GIRS."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Autonomous Vehicle Safety Researcher at B. John Garrick Institute for the Risk Sciences (GIRS)"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://sidsingh30.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -35,13 +35,13 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : # URL
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "siddhant-singh3001"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
