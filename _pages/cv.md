@@ -76,6 +76,14 @@ Skills
 - **Manufacturing and prototyping:** injection molding prototyping; CNC and 5-axis CNC exposure; hot-press and lamination process exposure; stress–strain testing (ZwickRoell).
 - **Technical communication and coordination:** technical writing; stakeholder briefings; structured documentation; cross-team coordination; process standardization (rubrics, templates, checklists).
 
+Projects
+======
+
+<ul>
+  {% for p in site.portfolio %}
+    <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a></li>
+  {% endfor %}
+</ul>
 
 Talks
 ======
