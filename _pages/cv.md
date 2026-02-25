@@ -30,9 +30,9 @@ Supervisor: Dr. Ali Mosleh, Dr. Camila Correa-Jullian, Jean-Paul Velez (SFCTA)
 *Jul 2024 – Sep 2024*  
 Supervisor: Jean-Michel (CAE), Kuldeep Adhana (FSTC)
 
-- Supported systems integration and commissioning of the CAE 7000XR A320neo Full Flight Simulator, coordinating day-to-day execution across CAE specialists, the FSTC site team, contractors, and logistics.
-- Integrated the simulator visual stack (Tropos 6000, projectors, BP screen) and supported alignment, calibration, and functionality checks during bring-up.
-- Supported facility readiness and electrical integration work including power protection and grounding, transformer configuration changes, and resolving infrastructure issues that blocked commissioning (trenches, routing, climate-control/CVAC plumbing fixes).
+- Coordinated systems integration and commissioning of the CAE 7000XR A320neo Full Flight Simulator, coordinating day-to-day execution across CAE specialists, the FSTC site team, contractors, and logistics.
+- Integrated the simulator visual stack (Tropos 6000, projectors, BP screen) and executed alignment, calibration, and functionality checks during bring-up.
+- Led facility readiness and electrical integration work including power protection and grounding, transformer configuration changes, and resolving infrastructure issues that blocked commissioning (trenches, routing, climate-control/CVAC plumbing fixes).
 - Performed troubleshooting and verification across motion and safety subsystems including actuator alignment corrections, VESDA smoke detection testing, and envelope testing to identify and escalate clearance constraints before acceptance.
 
 ### Production Engineering Intern — Complete Surveying Technology, Noida, India
@@ -40,7 +40,7 @@ Supervisor: Jean-Michel (CAE), Kuldeep Adhana (FSTC)
 Supervisor: Retd. Col Raj Suri
 
 - Built and tested prototype parts for the 412D Digital Measuring Wheel including the spoke wheel and hand grip.
-- Supported an electronics upgrade by integrating a custom circuit board and microcontroller to add capability while reducing the electronics footprint.
+- Led an electronics upgrade by integrating a custom circuit board and microcontroller to add capability while reducing the electronics footprint.
 - Ran supervised injection-molding prototype trials on a Mitsubishi 350-ton machine to produce trial parts and check fit and assembly.
 - Verified durability using simulation and physical testing, and documented key manufacturing steps across two plants so design choices matched real production constraints.
 
@@ -48,10 +48,10 @@ Supervisor: Retd. Col Raj Suri
 *Jun 2022 – Sep 2022*  
 Supervisor: Mark Feer
 
-- Executed hot-press gluing experiments for Vulcan fiber sheet production and supported sheet preparation workflows from raw material through pressing.
+- Executed hot-press gluing experiments for Vulcan fiber sheet production and managed sheet preparation workflows from raw material through pressing.
 - Optimized adhesive distribution for Vulcan fiber sheets using ABAQUS FEA and 5-axis CNC machining to improve manufacturing precision and consistency.
-- Built a harness rewinding improvement to reduce spool changeover time and increase hourly production; supported dye-change preparation and manual bobbin changes on braiding machines.
-- Established preventive maintenance schedules and supported repair work on harness braiding machines, reducing downtime by 20%.
+- Built a harness rewinding improvement to reduce spool changeover time and increase hourly production; performed dye-change preparation and manual bobbin changes on braiding machines.
+- Established preventive maintenance schedules and performed repair work on harness braiding machines, reducing downtime by 20%.
 
 ### Student Billing Analyst — UCLA Library Financial Services, Los Angeles, CA
 *May 2022 – Sep 2024*  
@@ -63,7 +63,7 @@ Supervisor: Ami Baxley
 *May 2022 – Dec 2022*  
 Supervisor: Tommy Chiu, Peter Blase
 
-- Provided front-line IT support across walk-up, phone, and ticketing workflows covering MyUCLA, Gradebook, Outlook, and account access issues; supported onboarding for new staff and created checklists to standardize recurring workflows and speed resolution.
+- Provided front-line IT support across walk-up, phone, and ticketing workflows covering MyUCLA, Gradebook, Outlook, and account access issues; onboarded new staff and created checklists to standardize recurring workflows and speed resolution.
   
 Skills
 ======
@@ -91,4 +91,17 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+
+### Research Mentorship — UCLA B. John Garrick Institute for the Risk Sciences (GIRS)
+
+- Supervised two volunteer undergraduate students (UCLA and Georgia Tech) contributing to research projects leading to conference publications.
+
+### Facilitator (Team Lead) — Challenge Course, UCLA Recreation
+
+- Trained and supervised 25+ Program Assistants and facilitated high and low element sessions using structured briefings, safety discipline, and end-of-session debriefs.
+
+### Philanthropy Chair — Sigma Pi Fraternity, UCLA
+
+- Organized fundraising concerts, campus tabling events, and a beach cleanup; raised $11K for A Place Called Home and LA wildfire relief.
+
+
