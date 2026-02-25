@@ -17,7 +17,7 @@ Previously, I worked as a Systems Integration Engineer on the installation and c
 
 - **B.S.**: University of California, Los Angeles (UCLA) (2025)  
   - Mechanical Engineering, Advisor: [Dr. Tsu-Chin “T-C” Tsao](https://samueli.ucla.edu/people/tsu-chin-tsao/)  
-  - Thesis: [*"An autonomous pouring and lifting unit for targeted operations using onboard sensing and closed-loop motion control."*](files/Final_Design_Report__162D_Team_7.pdf)
+  - Thesis: [*"An autonomous pouring and lifting unit for targeted operations using onboard sensing and closed-loop motion control."*](files/FinalDesignReport162D_Team_7.pdf)
 
 ## Quick links
 
