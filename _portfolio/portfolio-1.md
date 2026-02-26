@@ -1,6 +1,6 @@
 ---
 title: "Autonomous Vehicle Integration for the LA28 Games: Corridor Scoping and Safety Guardrails"
-excerpt: "Building a corridor and venue-level framework linking LA28 mobility commitments to AV operating constraints, evaluation questions, and reporting needs. 1<br/><img src='/images/LA28Waymo.png'>"
+excerpt: "Building a corridor and venue-level framework linking LA28 mobility commitments to AV operating constraints, evaluation questions, and reporting needs. <br/><img src='/images/LA28Waymo.png'>"
 collection: portfolio
 ---
 
