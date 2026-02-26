@@ -11,3 +11,5 @@ Mega events like the LA28 Olympic and Paralympic Games are increasingly used to 
 This ongoing project synthesizes the LA28 mobility landscape into a scoping package for decision makers. The work delivers a structured map of confirmed mobility elements and stakeholders, along with a gap analysis that highlights where assumptions, responsibilities, and governance requirements remain undefined across the regional plan.
 
 The approach combines cross agency document synthesis with corridor and venue level structuring to characterize how transit expansion, supplemental bus operations, demand management, and partner provided services fit together. Outputs support early planning by clarifying what is already committed, what is still tentative, and where governance questions concentrate as 2028 approaches. Next steps include translating priority gaps into a focused set of evaluation questions and data requirements for any advanced mobility services proposed for Games operations.
+
+Slides: [LA28Olympics_AVDeployment](files/LA28Olympics_AVDeploymentpdf.pdf)
