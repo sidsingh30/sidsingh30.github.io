@@ -1,6 +1,6 @@
 ---
 title: "Sigma Pi UCLA Events Lead: Campus Brand Partnerships and Student Outreach"
-excerpt: ""Led campus brand campaigns for BeReal, Sleeper Betting, Gymshark, and Phorm Energy, using fraternity events, chapter meetings, giveaways, sampling, and direct student outreach to drive app signups, product engagement, and sponsored event performance. <br/><img src='/images/UclaSigpi_Colab_Logo.png'>"
+excerpt: "Led campus brand campaigns for BeReal, Sleeper Betting, Gymshark, and Phorm Energy, using fraternity events, chapter meetings, giveaways, sampling, and direct student outreach to drive app signups, product engagement, and sponsored event performance. <br/><img src='/images/UclaSigpi_Colab_Logo.png'>"
 collection: portfolio
 ---
 
