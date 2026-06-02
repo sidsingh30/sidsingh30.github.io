@@ -1,6 +1,6 @@
 ---
 title: "Turf Sports College Go to Market Strategy: Campus Event Activation and CAC Modeling"
-excerpt: "Developed a college go-to-market strategy for Turf Sports, using campus events, fraternity tournaments, tabling, ambassadors, and tailgate sponsorships to model user acquisition, CAC, and phased campus expansion. <br/><img src='/images/turf_logo.png'>"
+excerpt: "Led college go-to-market strategy for Turf Sports, using campus events, fraternity tournaments, tabling, ambassadors, and tailgate sponsorships to model user acquisition, CAC, and phased campus expansion. <br/><img src='/images/turf_logo.png'>"
 collection: portfolio
 ---
 
